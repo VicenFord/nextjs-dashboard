@@ -1,1 +1,2 @@
-CREATE TABLE IF NOT EXISTS session;
+INSERT INTO Revenue (Month)
+VALUES ('Jan'), ('Feb'), ('Mar'), ('Apr'), ('May'), ('Jun'), ('Jul'), ('Aug'), ('Sep'), ('Oct'), ('Nov'), ('Dec');
